@@ -1,0 +1,59 @@
+.error
+{
+  color: red;
+}
+
+h1
+{
+  text-align: center;
+
+}
+
+.split
+{
+  width: 50%;
+  height: 100%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+}
+
+.right
+{
+  right: 0;
+}
+
+.left
+{
+  left: 0;
+  background-color: pink;
+}
+
+.form
+{
+  border-radius: 7%;
+  width: 50%;
+  margin: auto;
+  background-color: lightblue;
+  padding: 10px;
+  margin-top: 170px;
+}
+
+.buttons
+{
+  margin-left: 70px;
+}
+
+.tableDatas
+{
+
+
+  padding-bottom:  10px;
+}
+
+.table
+{
+
+  width: 90%;
+  margin: auto;
+}
